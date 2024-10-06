@@ -1,0 +1,9 @@
+.header-image {
+    height: 100vh;
+    background-image: url('../../../assets/images/computer.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  .navbar {
+    transition: background-color 0.3s ease;
+  }
